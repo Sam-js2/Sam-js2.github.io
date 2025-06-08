@@ -4,10 +4,6 @@ date: 2023-10-24
 type: page
 design:
   spacing: '5rem'
-# Optional for redundancy
-menu:
-  main:
-    weight: 40
 ---
 
 # 2D Hall Array Technology for SOFE 2025

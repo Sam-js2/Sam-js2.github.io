@@ -1,5 +1,5 @@
 ---
-title: 'SOFE'
+title: 'sofe'
 date: 2023-10-24
 type: page
 design:

@@ -1,9 +1,7 @@
 ---
-title: 'sofe'
+title: 'SOFE - 2D Hall Arrays for Tokamak Magnetic Field Imaging'
 date: 2023-10-24
 type: page
-design:
-  spacing: '5rem'
 ---
 
 # 2D Hall Arrays for High Resolution Tokamak Magnetic Field Imaging

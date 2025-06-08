@@ -7,10 +7,10 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Projects
-    url: /#projects
+  - name: Research
+    url: projects/
     weight: 11
-  - name: Experience
+  - name: Professional
     url: experience/
     weight: 20
   - name: SOFE 2025

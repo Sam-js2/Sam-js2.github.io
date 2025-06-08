@@ -10,7 +10,7 @@ main:
   - name: Research
     url: projects/
     weight: 11
-  - name: Professional
+  - name: Career
     url: experience/
     weight: 20
   - name: SOFE 2025

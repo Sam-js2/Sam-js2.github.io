@@ -8,6 +8,6 @@ tags:
   - Tokamak
 ---
 
-Student project to build SOUTH: the worlds first undergraduate tokamak. I was primarily involved with the design of the plasma diagnostics subsystem.
+Student project to build SOUTH: the worlds first undergraduate tokamak. I designed the plasma diagnostics system.
 
 <!--more-->

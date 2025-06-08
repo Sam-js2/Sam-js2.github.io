@@ -8,6 +8,6 @@ tags:
   - CAD
 ---
 
-I did some electrical and mechanical CAD for various devices supporting the research group. I made some data acquisition equipment, and some drying racks for cleanroom products.
+I did electrical CAD for DAQ systems and mechanical CAD for a cleanroom drying rack.
 
 <!--more-->

@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergraduate
+role: Undergraduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -35,31 +35,31 @@ interests:
 education:
   - area: BE (Hons) (Aerospace) --- Ongoing
     institution: University of New South Wales
-    date_start: 2021-02
-    date_end: 2025-09
+    date_start: 2021-02-01
+    date_end: 2025-09-01
   - area: BSc (Physics, Chemistry) --- Ongoing
     institution: University of New South Wales
-    date_start: 2021-02
-    date_end: 2025-09
+    date_start: 2021-02-01
+    date_end: 2025-09-01
 work:
   - position: STEM Cadet
     company_name: Defence Science Technology Group
     company_url: ''
     company_logo: ''
-    date_start: 2023
+    date_start: 2023-01-01
     date_end: ''
   - position: Student Ambassador
-    company_name: UNSW, School of Mechanical and Manufacturing Engneering
+    company_name: UNSW, School of Mechanical and Manufacturing Engineering
     company_url: 'https://unsw.edu.au'
     company_logo: ''
-    date_start: 2024
+    date_start: 2024-01-01
     date_end: ''
   - position: Private Soldier
     company_name: Australian Army Reserves
     company_url: ''
     company_logo: ''
-    date_start: 2019-12
-    date_end: 2025-6
+    date_start: 2019-12-01
+    date_end: 2025-06-01
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -68,13 +68,13 @@ work:
 awards:
   - title: UNIC Travel Grant
     url: https://www.unsw.edu.au/research/nuclear-innovation-centre
-    date: '2025'
+    date: '2025-01-01'
     awarder: Sir William Tyree Foundation and UNIC
     summary: |
       A$8 k to attend SOFE2025 in Cambridge, MA
   - title: Gates Cambridge Scholar-Elect
     url: https://www.gatescambridge.org/biography/19339/
-    date: '2025'
+    date: '2025-01-01'
     awarder: Gates Cambridge Trust
     summary: |
       Full scholarship to persue a PhD at the Cavendish Laboratory, starting michaelmas 2025
@@ -82,4 +82,4 @@ awards:
 
 ## About Me
 
-I am an undergraduate student studying Physics, Chemistry and Aerospace Engineering at the University of New South Wales, and a Gates Cambridge scholar-elect for 2025. My research is focused on the development of instrumentation for nuclear and high-energy applications. I started this work at the SOUTH tokmak at UNSW, and will continue it working on the LHCb collaboration during my PhD starting in Michaelmas 2025. Outside of my academics, I am an avid runner with a history of employment in the public service.
+I am an (extremely) late-stage undergraduate student studying Physics, Chemistry and Aerospace Engineering at the University of New South Wales, and a Gates Cambridge scholar-elect for 2025. My research is focused on the development of instrumentation for nuclear and high-energy applications. I started this work at the SOUTH tokmak at UNSW, and will continue it working on the LHCb collaboration during my PhD starting in Michaelmas 2025. Outside of my academics, I am an avid runner with a history of employment in the public service.

@@ -1,27 +1,33 @@
 ---
 title: 'sofe'
 date: 2023-10-24
-type: page
+type: landing
 design:
   spacing: '5rem'
 ---
 
-# 2D Hall Array Technology for SOFE 2025
+# 2D Hall Arrays for High Resolution Tokamak Magnetic Field Imaging
 
-## Advanced Magnetic Field Sensing Solutions
+By Samuel Shelton, Patrick Burr and Will Midley, UNSW School of Mechanical and Manufacturing Engineering
 
-The 2D Hall Array represents a breakthrough in magnetic field detection technology, specifically designed for applications in the Symposium on Fusion Engineering (SOFE) 2025. This innovative sensor array provides precise, multi-dimensional magnetic field measurements that are crucial for fusion energy research and plasma containment systems.
+Download the pre-print.
 
-Our advanced Hall effect sensors are arranged in a two-dimensional grid configuration, enabling comprehensive spatial mapping of magnetic field distributions. This technology offers unprecedented accuracy in detecting magnetic field variations across complex geometries, making it an essential tool for fusion reactor diagnostics and control systems.
+Download schematics.
 
-## Key Features and Applications
+[Youtube Video of the Device in Operation](https://youtu.be/roVHeTKtLwU)
 
-The 2D Hall Array system delivers exceptional performance characteristics that set new standards in magnetic field sensing. With its high-resolution spatial mapping capabilities, researchers can now obtain detailed real-time data on magnetic field behaviors in fusion plasma environments.
+Youtube video of the device in operation 2
 
-Applications extend beyond fusion research to include industrial magnetic field analysis, scientific instrumentation, and advanced materials testing. The array's robust design ensures reliable operation in challenging environments while maintaining the precision required for critical measurements.
+Download copy of the poster
 
-## Technical Innovation and Future Impact
+Gallery of Pictures and Figures.
 
-This cutting-edge technology represents years of research and development in semiconductor physics and magnetic sensing applications. The 2D Hall Array incorporates state-of-the-art fabrication techniques and signal processing algorithms to deliver superior performance compared to traditional single-point magnetic sensors.
+## AtomCraft and the SOUTH Tokamak: Looking for Collaborators!
 
-As we approach SOFE 2025, this technology promises to accelerate advances in fusion energy research by providing researchers with the precise magnetic field data necessary for optimizing plasma confinement and reactor design. The potential impact on clean energy development makes this innovation particularly significant for the future of sustainable power generation.
+'AtomCraft' is an undergraduate student-led initiative to design, build and commission a tokamak at the University of New South Wales in Sydney, Australia. The device is a small, spherical tokamak featuring conventional magnets and relying on electron cyclotron resonance heating (ECRH), influence primarily by the Danish NORTH tokamak (which is Tokamak Energy’s ex-ST40). The device has been dubbed SOUTH: Student Operated Undergraduate Tokamak with rf Heating. Unlike most Tokamaks, SOUTH’s focus is primarily pedagogical. The AtomCraft project seeks to train the next generation of fusion-ready multidisciplinary engineers and physicists by engaging students in complex and impactful fusion engineering research from as early as their second undergraduate year.
+
+As a student project, AtomCraft operates on an extremely tight budget, with an extremely low tolerance for risk (to ensure student safety and project viability), and the need to fundraise operating costs from philanthropic institutions and the fusion industry. This funding requirement makes producing easily communicable and exciting results a priority. The project also suffers from a tyranny of distance associated with Australia’s geographical isolation from the fusion industry, which restricts access to expertise and potential collaborators.
+
+**If you are reading this and work for a national lab, fusion company, university exe and want to collaborate, [please reach out to us.](https://linktr.ee/atomcraftunsw)**
+
+Gallery of Pictures and Figures.

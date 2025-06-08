@@ -33,12 +33,12 @@ interests:
   - Fusion Engineering
 
 education:
-  - area: BE (Hons) (Aerospace) --- Ongoing
-    institution: University of New South Wales
+  - area: BE (Hons) (Aerospace)
+    institution: UNSW — Ongoing
     date_start: 2021-02-01
     date_end: 2025-09-01
-  - area: BSc (Physics, Chemistry) --- Ongoing
-    institution: University of New South Wales
+  - area: BSc (Physics, Chemistry)
+    institution: UNSW — Ongoing
     date_start: 2021-02-01
     date_end: 2025-09-01
 work:

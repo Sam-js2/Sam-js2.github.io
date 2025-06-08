@@ -31,7 +31,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-    My current research is all affiliated with SOUTH (the Student Operated Undergraduate Tokamak with rf Heating), where I designed the plasma diagnostics systems architecture. This was a unique challenge due to an extremely tight budget, but I really enjoyed having to innovate in those conditions, and the opportunity to work on a fully clean sheet project.
+        My current research is all affiliated with SOUTH (the Student Operated Undergraduate Tokamak with rf Heating), where I designed the plasma diagnostics systems architecture. This was a unique challenge due to an extremely tight budget, but I really enjoyed having to innovate in those conditions, and the opportunity to work on a fully clean sheet project.
 
         As a spin-off project, my undergraduate thesis work is on the use of a 2D array of Hall effect sensors to directly image the toroidal field of SOUTH. This device is anticipated to be a great help in the R&D and commissioning stages, and it will significantly de-risk the project.
         

@@ -1,7 +1,8 @@
 ---
-title: '2D Hall Array: SOFE 2025'
+title: 'SOFE'
 date: 2023-10-24
 type: landing
+draft: false
 design:
   spacing: '5rem'
 ---

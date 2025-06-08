@@ -1,7 +1,7 @@
 ---
 title: Hall Array
 date: 2024-09-01
-url: /SOFE/
+external_link: https://sam-js2.github.io/SOFE/
 tags:
   - Magnetovision
   - Tokamak

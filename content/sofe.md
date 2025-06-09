@@ -12,29 +12,38 @@ By Samuel Shelton, Patrick Burr and Will Midgley, UNSW School of Mechanical and 
 
   <!-- PDF Download Buttons -->
   <div style="text-align: center; margin: 2rem 0;">
-    <a class="btn btn-primary" href="demo.pdf" download="HallArray_preprint_SOFE25.pdf">
-      <i class="fas fa-file-pdf"></i> Download Preprint
-    </a>
-    <a class="btn btn-primary" href="demo.pdf" download="HallArray_schematics_SOFE25.pdf">
-      <i class="fas fa-project-diagram"></i> Download Schematics
-    </a>
-    <a class="btn btn-primary" href="demo.pdf" download="HallArray_poster_SOFE25.pdf">
-      <i class="fas fa-chart-bar"></i> Download Poster
-    </a>
+    <div style="display: inline-block; margin: 1rem; padding: 1rem; border: 1px solid #ccc; border-radius: 8px;">
+      <a class="btn btn-primary" href="demo.pdf" download="HallArray_preprint_SOFE25.pdf">
+        <i class="fas fa-file-pdf"></i> Download Preprint
+      </a>
+    </div>
+    <div style="display: inline-block; margin: 1rem; padding: 1rem; border: 1px solid #ccc; border-radius: 8px;">
+      <a class="btn btn-primary" href="demo.pdf" download="HallArray_schematics_SOFE25.pdf">
+        <i class="fas fa-project-diagram"></i> Download Schematics
+      </a>
+    </div>
+    <div style="display: inline-block; margin: 1rem; padding: 1rem; border: 1px solid #ccc; border-radius: 8px;">
+      <a class="btn btn-primary" href="demo.pdf" download="HallArray_poster_SOFE25.pdf">
+        <i class="fas fa-chart-bar"></i> Download Poster
+      </a>
+    </div>
   </div>
 
   <!-- YouTube Video Buttons -->
   <div style="text-align: center; margin: 2rem 0;">
-    <a class="btn btn-secondary" href="https://youtu.be/roVHeTKtLwU" target="_blank" rel="noopener noreferrer">
-      <i class="fab fa-youtube"></i> Watch First Video
-    </a>
-    <a class="btn btn-secondary" href="https://youtu.be/roVHeTKtLwU" target="_blank" rel="noopener noreferrer">
-      <i class="fab fa-youtube"></i> Watch Second Video
-    </a>
+    <div style="display: inline-block; margin: 1rem; padding: 1rem; border: 1px solid #ccc; border-radius: 8px;">
+      <a class="btn btn-secondary" href="https://youtu.be/roVHeTKtLwU" target="_blank" rel="noopener noreferrer">
+        <i class="fab fa-youtube"></i> Watch First Video
+      </a>
+    </div>
+    <div style="display: inline-block; margin: 1rem; padding: 1rem; border: 1px solid #ccc; border-radius: 8px;">
+      <a class="btn btn-secondary" href="https://youtu.be/roVHeTKtLwU" target="_blank" rel="noopener noreferrer">
+        <i class="fab fa-youtube"></i> Watch Second Video
+      </a>
+    </div>
   </div>
 
 </div>
-
 
 Gallery of Pictures and Figures.
 

@@ -10,15 +10,15 @@ By Samuel Shelton, Patrick Burr and Will Midgley, UNSW School of Mechanical and 
 
 <!-- Row 1: PDF Downloads -->
 <div class="text-center my-4">
-  <a class="github-button" href="preprint.pdf" data-icon="octicon-download" data-size="large" aria-label="Download Preprint" download="preprint.pdf">Download Preprint</a>
-  <a class="github-button" href="schematics.pdf" data-icon="octicon-download" data-size="large" aria-label="Download Schematics" download="schematics.pdf">Download Schematics</a>
-  <a class="github-button" href="poster.pdf" data-icon="octicon-download" data-size="large" aria-label="Download Poster" download="poster.pdf">Download Poster</a>
+  <a class="github-button" href="demo.pdf" data-icon="octicon-download" data-size="large" aria-label="Download Preprint" download="preprint.pdf">Download Preprint</a>
+  <a class="github-button" href="demo.pdf" data-icon="octicon-download" data-size="large" aria-label="Download Schematics" download="schematics.pdf">Download Schematics</a>
+  <a class="github-button" href="demo.pdf" data-icon="octicon-download" data-size="large" aria-label="Download Poster" download="poster.pdf">Download Poster</a>
 </div>
 
 <!-- Row 2: YouTube Videos -->
 <div class="text-center my-4">
-  <a class="github-button" href="https://youtube.com/watch?v=YOUR_VIDEO_ID_1" data-icon="octicon-play" data-size="large" aria-label="Watch Demo Video" target="_blank">Watch Demo</a>
-  <a class="github-button" href="https://youtube.com/watch?v=YOUR_VIDEO_ID_2" data-icon="octicon-play" data-size="large" aria-label="Watch Tutorial Video" target="_blank">Watch Tutorial</a>
+  <a class="github-button" href="https://youtu.be/roVHeTKtLwU" data-icon="octicon-play" data-size="large" aria-label="Video 1" target="_blank">Watch First Video</a>
+  <a class="github-button" href="https://youtu.be/roVHeTKtLwU" data-icon="octicon-play" data-size="large" aria-label="Video 2" target="_blank">Watch Second Video</a>
 </div>
 
 <style>

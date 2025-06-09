@@ -6,17 +6,17 @@ type: page
 
 # 2D Hall Arrays for High Resolution Tokamak Magnetic Field Imaging
 
-By Samuel Shelton, Patrick Burr and Will Midley, UNSW School of Mechanical and Manufacturing Engineering
+By Samuel Shelton, Patrick Burr and Will Midgley, UNSW School of Mechanical and Manufacturing Engineering
 
-Download the pre-print.
+<div class="text-center my-4">
+  <a class="github-button" href="https://github.com/yourusername/your-repo" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Download Preprint">Star</a>
+  <a class="github-button" href="https://github.com/yourusername/your-repo/issues" data-icon="octicon-issue-opened" data-size="large" data-show-count="true" aria-label="Download Schematics">Issue</a>
+  <a class="github-button" href="https://github.com/yourusername/your-repo/issues" data-icon="octicon-issue-opened" data-size="large" data-show-count="true" aria-label="Download a copy of the Poster">Issue</a>
+</div>
 
-Download schematics.
+[First Youtube Video of the Device in Operation](https://youtu.be/roVHeTKtLwU)
 
-[Youtube Video of the Device in Operation](https://youtu.be/roVHeTKtLwU)
-
-Youtube video of the device in operation 2
-
-Download copy of the poster
+[Second Youtube Video of the Device in Operation](https://youtu.be/roVHeTKtLwU)
 
 Gallery of Pictures and Figures.
 

@@ -23,9 +23,9 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 's.shelton@unsw.edu.au'
-    label: E-mail Me
+  - icon: email
+    url: 'mailto:s.shelton@unsw.edu.au'
+    label: E-mail
 
 interests:
   - Detector Research and Development
@@ -82,4 +82,4 @@ awards:
 
 ## About Me
 
-I am an (extremely) late-stage undergraduate student studying Physics, Chemistry and Aerospace Engineering at the University of New South Wales, and a Gates Cambridge scholar-elect for 2025. My research is focused on the development of instrumentation for nuclear and high-energy applications. I started this work at the SOUTH tokmak at UNSW, and will continue it working on the LHCb collaboration during my PhD starting in Michaelmas 2025. Outside of my academics, I am an avid runner with a history of employment in the public service.
+I am a late-stage undergraduate student studying Physics, Chemistry and Aerospace Engineering at the University of New South Wales, and a Gates Cambridge scholar-elect for 2025. My research is focused on the development of instrumentation for nuclear and high-energy applications. I started this work at the SOUTH tokmak at UNSW, and will continue it working on the LHCb collaboration during my PhD starting in Michaelmas 2025. Outside of my academics, I am an avid runner with a history of employment in the public service.

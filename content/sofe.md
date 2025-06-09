@@ -8,11 +8,40 @@ type: page
 
 By Samuel Shelton, Patrick Burr and Will Midgley, UNSW School of Mechanical and Manufacturing Engineering
 
+<!-- Row 1: PDF Downloads -->
 <div class="text-center my-4">
-  <a class="github-button" href="https://github.com/yourusername/your-repo" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Download Preprint">Star</a>
-  <a class="github-button" href="https://github.com/yourusername/your-repo/issues" data-icon="octicon-issue-opened" data-size="large" data-show-count="true" aria-label="Download Schematics">Issue</a>
-  <a class="github-button" href="https://github.com/yourusername/your-repo/issues" data-icon="octicon-issue-opened" data-size="large" data-show-count="true" aria-label="Download a copy of the Poster">Issue</a>
+  <a class="github-button" href="preprint.pdf" data-icon="octicon-download" data-size="large" aria-label="Download Preprint" download="preprint.pdf">Download Preprint</a>
+  <a class="github-button" href="schematics.pdf" data-icon="octicon-download" data-size="large" aria-label="Download Schematics" download="schematics.pdf">Download Schematics</a>
+  <a class="github-button" href="poster.pdf" data-icon="octicon-download" data-size="large" aria-label="Download Poster" download="poster.pdf">Download Poster</a>
 </div>
+
+<!-- Row 2: YouTube Videos -->
+<div class="text-center my-4">
+  <a class="github-button" href="https://youtube.com/watch?v=YOUR_VIDEO_ID_1" data-icon="octicon-play" data-size="large" aria-label="Watch Demo Video" target="_blank">Watch Demo</a>
+  <a class="github-button" href="https://youtube.com/watch?v=YOUR_VIDEO_ID_2" data-icon="octicon-play" data-size="large" aria-label="Watch Tutorial Video" target="_blank">Watch Tutorial</a>
+</div>
+
+<style>
+/* Ensure proper spacing between button rows */
+.my-4 {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Add some spacing between buttons */
+.github-button {
+  margin: 0 4px;
+}
+
+/* Responsive stacking for smaller screens */
+@media (max-width: 768px) {
+  .github-button {
+    display: block;
+    margin: 4px auto;
+    width: fit-content;
+  }
+}</style>
+
 
 [First Youtube Video of the Device in Operation](https://youtu.be/roVHeTKtLwU)
 

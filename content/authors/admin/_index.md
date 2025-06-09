@@ -24,6 +24,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: email
+    icon_pack: custom
     url: 'mailto:s.shelton@unsw.edu.au'
     label: E-mail
 

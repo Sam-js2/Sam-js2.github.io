@@ -8,35 +8,33 @@ type: page
 
 By Samuel Shelton, Patrick Burr and Will Midgley, UNSW School of Mechanical and Manufacturing Engineering
 
-<div style="max-width: 800px; margin: 0 auto; padding: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;">
-    
-  <!-- Row 1: PDF Downloads -->
-  <div class="text-center my-4">
-      <a class="btn btn-primary" href="demo.pdf" download="HallArray_preprint_SOFE25.pdf">
-          📄 Download Preprint
-      </a>
-      <a class="btn btn-primary" href="demo.pdf" download="HallArray_schematics_SOFE25.pdf">
-          📋 Download Schematics
-      </a>
-      <a class="btn btn-primary" href="demo.pdf" download="HallArray_poster_SOFE25.pdf">
-          📊 Download Poster
-      </a>
+<div style="max-width: 800px; margin: 2rem auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;">
+
+  <!-- PDF Download Buttons -->
+  <div style="text-align: center; margin: 2rem 0;">
+    <a class="btn btn-primary" href="demo.pdf" download="HallArray_preprint_SOFE25.pdf">
+      <i class="fas fa-file-pdf"></i> Download Preprint
+    </a>
+    <a class="btn btn-primary" href="demo.pdf" download="HallArray_schematics_SOFE25.pdf">
+      <i class="fas fa-project-diagram"></i> Download Schematics
+    </a>
+    <a class="btn btn-primary" href="demo.pdf" download="HallArray_poster_SOFE25.pdf">
+      <i class="fas fa-chart-bar"></i> Download Poster
+    </a>
   </div>
 
-  <!-- Row 2: YouTube Videos -->
-  <div class="text-center my-4">
-      <a class="btn btn-secondary" href="https://youtu.be/roVHeTKtLwU" target="_blank">
-          🎥 Watch First Video
-      </a>
-      <a class="btn btn-secondary" href="https://youtu.be/roVHeTKtLwU" target="_blank">
-          🎥 Watch Second Video
-      </a>
+  <!-- YouTube Video Buttons -->
+  <div style="text-align: center; margin: 2rem 0;">
+    <a class="btn btn-secondary" href="https://youtu.be/roVHeTKtLwU" target="_blank" rel="noopener noreferrer">
+      <i class="fab fa-youtube"></i> Watch First Video
+    </a>
+    <a class="btn btn-secondary" href="https://youtu.be/roVHeTKtLwU" target="_blank" rel="noopener noreferrer">
+      <i class="fab fa-youtube"></i> Watch Second Video
+    </a>
   </div>
+
 </div>
 
-[First Youtube Video of the Device in Operation](https://youtu.be/roVHeTKtLwU)
-
-[Second Youtube Video of the Device in Operation](https://youtu.be/roVHeTKtLwU)
 
 Gallery of Pictures and Figures.
 

@@ -8,40 +8,31 @@ type: page
 
 By Samuel Shelton, Patrick Burr and Will Midgley, UNSW School of Mechanical and Manufacturing Engineering
 
-<!-- Row 1: PDF Downloads -->
-<div class="text-center my-4">
-  <a class="github-button" href="demo.pdf" data-icon="octicon-download" data-size="large" aria-label="Download Preprint" download="preprint.pdf">Download Preprint</a>
-  <a class="github-button" href="demo.pdf" data-icon="octicon-download" data-size="large" aria-label="Download Schematics" download="schematics.pdf">Download Schematics</a>
-  <a class="github-button" href="demo.pdf" data-icon="octicon-download" data-size="large" aria-label="Download Poster" download="poster.pdf">Download Poster</a>
+<div style="max-width: 800px; margin: 0 auto; padding: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;">
+    
+  <!-- Row 1: PDF Downloads -->
+  <div class="text-center my-4">
+      <a class="btn btn-primary" href="demo.pdf" download="HallArray_preprint_SOFE25.pdf">
+          📄 Download Preprint
+      </a>
+      <a class="btn btn-primary" href="demo.pdf" download="HallArray_schematics_SOFE25.pdf">
+          📋 Download Schematics
+      </a>
+      <a class="btn btn-primary" href="demo.pdf" download="HallArray_poster_SOFE25.pdf">
+          📊 Download Poster
+      </a>
+  </div>
+
+  <!-- Row 2: YouTube Videos -->
+  <div class="text-center my-4">
+      <a class="btn btn-secondary" href="https://youtu.be/roVHeTKtLwU" target="_blank">
+          🎥 Watch First Video
+      </a>
+      <a class="btn btn-secondary" href="https://youtu.be/roVHeTKtLwU" target="_blank">
+          🎥 Watch Second Video
+      </a>
+  </div>
 </div>
-
-<!-- Row 2: YouTube Videos -->
-<div class="text-center my-4">
-  <a class="github-button" href="https://youtu.be/roVHeTKtLwU" data-icon="octicon-play" data-size="large" aria-label="Video 1" target="_blank">Watch First Video</a>
-  <a class="github-button" href="https://youtu.be/roVHeTKtLwU" data-icon="octicon-play" data-size="large" aria-label="Video 2" target="_blank">Watch Second Video</a>
-</div>
-
-<style>
-/* Ensure proper spacing between button rows */
-.my-4 {
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
-}
-
-/* Add some spacing between buttons */
-.github-button {
-  margin: 0 4px;
-}
-
-/* Responsive stacking for smaller screens */
-@media (max-width: 768px) {
-  .github-button {
-    display: block;
-    margin: 4px auto;
-    width: fit-content;
-  }
-}</style>
-
 
 [First Youtube Video of the Device in Operation](https://youtu.be/roVHeTKtLwU)
 

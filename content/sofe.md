@@ -27,20 +27,6 @@ By Samuel Shelton, Patrick Burr and Will Midgley, UNSW School of Mechanical and 
       </a>
     </div>
   </div>
-
-  <!-- YouTube Video Buttons -->
-  <div style="text-align: center; margin: 2rem 0;">
-    <div style="display: inline-block; margin: 1rem; padding: 1rem; border: 1px solid #ccc; border-radius: 8px;">
-      <a class="btn btn-secondary" href="https://youtu.be/roVHeTKtLwU" target="_blank" rel="noopener noreferrer">
-        <i class="fab fa-youtube"></i> Watch First Video
-      </a>
-    </div>
-    <div style="display: inline-block; margin: 1rem; padding: 1rem; border: 1px solid #ccc; border-radius: 8px;">
-      <a class="btn btn-secondary" href="https://youtu.be/roVHeTKtLwU" target="_blank" rel="noopener noreferrer">
-        <i class="fab fa-youtube"></i> Watch Second Video
-      </a>
-    </div>
-  </div>
 </div>
 
 <!-- YouTube Video Embed (Responsive) -->

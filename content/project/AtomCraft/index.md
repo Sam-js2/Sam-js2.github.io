@@ -1,6 +1,7 @@
 ---
 title: AtomCraft
 external_link: https://atomcraft.com.au
+date: 2024-05-01
 tags:
   - Tokamak
   - Engineering

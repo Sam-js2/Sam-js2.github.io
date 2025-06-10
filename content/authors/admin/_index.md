@@ -69,13 +69,13 @@ work:
 awards:
   - title: UNIC Travel Grant
     url: https://www.unsw.edu.au/research/nuclear-innovation-centre
-    date: '2025-01-01'
-    awarder: Sir William Tyree Foundation and UNSW Nuclear Innovation Centre (UNIC).
+    date: '2025-06-01'
+    awarder: Sir William Tyree Foundation and UNSW Nuclear Innovation Centre (UNIC)
     summary: |
-      A$8 k to attend SOFE2025 in Cambridge, MA
+      A$8,000 to attend SOFE2025 in Cambridge, MA.
   - title: Gates Cambridge Scholar-Elect
     url: https://www.gatescambridge.org/biography/19339/
-    date: '2025-01-01'
+    date: '2025-05-01'
     awarder: Gates Cambridge Trust
     summary: |
       Full scholarship to pursue a PhD at the Cavendish Laboratory, starting Michaelmas 2025.

@@ -15,7 +15,6 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Academic website of Sam Shelton.'
-    twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -42,7 +41,7 @@ footer:
   copyright:
     notice: '© {year} Sam Shelton. This work is licensed under {license}'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false

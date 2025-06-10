@@ -1,6 +1,5 @@
 ---
 title: Hall Array
-date: 2024-09-01
 external_link: https://sam-js2.github.io/SOFE/
 tags:
   - Magnetovision

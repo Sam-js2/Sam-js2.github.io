@@ -1,6 +1,5 @@
 ---
 title: 'SOFE - 2D Hall Arrays for Tokamak Magnetic Field Imaging'
-date: 2023-10-24
 type: page
 ---
 
@@ -30,6 +29,8 @@ By Samuel Shelton, Patrick Burr and Will Midgley, UNSW School of Mechanical and 
   </div>
 
   <!-- YouTube Video Buttons -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/roVHeTKtLwU?si=cTpXwO1Yk-aoryQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
   <div style="text-align: center; margin: 2rem 0;">
     <div style="display: inline-block; margin: 1rem; padding: 1rem; border: 1px solid #ccc; border-radius: 8px;">
       <a class="btn btn-secondary" href="https://youtu.be/roVHeTKtLwU" target="_blank" rel="noopener noreferrer">

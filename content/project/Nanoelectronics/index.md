@@ -1,6 +1,5 @@
 ---
 title: Nanoelectronics
-date: 2023-09-01
 external_link: https://www.phys.unsw.edu.au/nanoelectronics/
 tags:
   - CAD

@@ -12,17 +12,17 @@ By Samuel Shelton, Patrick Burr and Will Midgley, UNSW School of Mechanical and 
   <!-- PDF Download Buttons -->
   <div style="text-align: center; margin: 2rem 0;">
     <div style="display: inline-block; margin: 1rem; padding: 1rem; border: 1px solid #ccc; border-radius: 8px;">
-      <a class="btn btn-primary" href="/demo.pdf" download="HallArray_preprint_SOFE25.pdf">
+      <a class="btn btn-primary" href="/demo.pdf" download="HallArray_preprint_SOFE2025.pdf">
         <i class="fas fa-file-pdf"></i> Download Preprint
       </a>
     </div>
     <div style="display: inline-block; margin: 1rem; padding: 1rem; border: 1px solid #ccc; border-radius: 8px;">
-      <a class="btn btn-primary" href="/demo.pdf" download="HallArray_schematics_SOFE25.pdf">
+      <a class="btn btn-primary" href="/schematics" download="HallArray_schematics_SOFE2025.pdf">
         <i class="fas fa-project-diagram"></i> Download Schematics
       </a>
     </div>
     <div style="display: inline-block; margin: 1rem; padding: 1rem; border: 1px solid #ccc; border-radius: 8px;">
-      <a class="btn btn-primary" href="/demo.pdf" download="HallArray_poster_SOFE25.pdf">
+      <a class="btn btn-primary" href="/samsh_Poster_SOFE25_COMPRESSED.pdf" download="HallArray_poster_SOFE2025.pdf">
         <i class="fas fa-chart-bar"></i> Download Poster
       </a>
     </div>
@@ -32,8 +32,20 @@ By Samuel Shelton, Patrick Burr and Will Midgley, UNSW School of Mechanical and 
 <!-- YouTube Video Embed (Responsive) -->
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 2rem auto;">
   <iframe
+    src="https://www.youtube.com/embed/P6wqNETKNN4?si=UMlj_ibSfwQWm3iC"
+    title="SOFE Hall Array: Bar Magnet Demonstration"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+  ></iframe>
+</div>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 2rem auto;">
+  <iframe
     src="https://www.youtube.com/embed/roVHeTKtLwU?si=cTpXwO1Yk-aoryQA"
-    title="2D Hall Arrays for Tokamak Magnetic Field Imaging"
+    title="SOFE Hall Array: Screwdriver Demonstration"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

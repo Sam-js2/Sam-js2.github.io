@@ -17,7 +17,7 @@ By Samuel Shelton, Patrick Burr and Will Midgley, UNSW School of Mechanical and 
       </a>
     </div>
     <div style="display: inline-block; margin: 1rem; padding: 1rem; border: 1px solid #ccc; border-radius: 8px;">
-      <a class="btn btn-primary" href="/schematics" download="HallArray_schematics_SOFE2025.pdf">
+      <a class="btn btn-primary" href="/schematics.pdf" download="HallArray_schematics_SOFE2025.pdf">
         <i class="fas fa-project-diagram"></i> Download Schematics
       </a>
     </div>

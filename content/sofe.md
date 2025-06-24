@@ -54,7 +54,7 @@ Samuel Shelton and Will Midgley, UNSW School of Mechanical and Manufacturing Eng
   ></iframe>
 </div>
 
-**If you are reading this and work for a national lab, fusion company, university exe and want to collaborate, [please reach out to us.](https://linktr.ee/atomcraftunsw)**
+**[Email the Corresponding Author (Sam Shelton)](mailto:s.shelton@unsw.edu.au)**
 
 ## AtomCraft and the SOUTH Tokamak: Looking for Collaborators!
 

@@ -13,17 +13,17 @@ Samuel Shelton and Will Midgley, UNSW School of Mechanical and Manufacturing Eng
   <div style="text-align: center; margin: 2rem 0;">
     <div style="display: inline-block; margin: 1rem; padding: 1rem; border: 1px solid #ccc; border-radius: 8px;">
       <a class="btn btn-primary" href="/preprint.pdf" download="HallArray_preprint_SOFE2025.pdf">
-        <i class="fas fa-file-pdf"></i> Download Preprint
+        <i class="fa-solid fa-file-pdf"></i> Download Preprint
       </a>
     </div>
     <div style="display: inline-block; margin: 1rem; padding: 1rem; border: 1px solid #ccc; border-radius: 8px;">
       <a class="btn btn-primary" href="/schematics.pdf" download="HallArray_schematics_SOFE2025.pdf">
-        <i class="fas fa-project-diagram"></i> Download Schematics
+        <i class="fa-solid fa-diagram-project"></i> Download Schematics
       </a>
     </div>
     <div style="display: inline-block; margin: 1rem; padding: 1rem; border: 1px solid #ccc; border-radius: 8px;">
-      <a class="btn btn-primary" href="/samsh_Poster_SOFE2025.pdf" download="HallArray_poster_SOFE2025.pdf">
-        <i class="fas fa-chart-bar"></i> Download Poster
+      <a class="btn btn-primary" href="/samsh_poster.pdf" download="HallArray_poster_SOFE2025.pdf">
+        <i class="fa-solid fa-image"></i> Download Poster
       </a>
     </div>
   </div>
@@ -70,7 +70,7 @@ As a student project, AtomCraft operates on an extremely tight budget, with an e
   <div style="text-align: center; margin: 2rem 0;">
     <div style="display: inline-block; margin: 1rem; padding: 1rem; border: 1px solid #ccc; border-radius: 8px;">
       <a class="btn btn-primary" href="/AtomCraft_Poster_SOFE25.pdf" download="AtomCraft_Poster_SOFE2025.pdf">
-        <i class="fas fa-file-pdf"></i> Download Preprint
+        <i class="fa-solid fa-image"></i> Download AtomCraft Poster
       </a>
     </div>
 </div>
